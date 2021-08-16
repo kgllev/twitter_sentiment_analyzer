@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="extwitter" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/extwitter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/extwitter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/extwitter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/extwitter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/extwitter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/extwitter/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+      <root url="file://$PROJECT_DIR$/deps/extwitter/lib" />
+    </SOURCES>
+  </library>
+</component>
